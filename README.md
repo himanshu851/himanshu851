@@ -759,52 +759,46 @@ Local Development
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=himanshu851&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu851&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
   src="https://streak-stats.demolab.com?user=himanshu851&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/github/followers/himanshu851?label=Followers&style=for-the-badge&logo=github"
+  alt="GitHub Followers"
+/>
+
+<img
+  src="https://img.shields.io/github/stars/himanshu851?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&logo=github"
+  alt="GitHub Stars"
+/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=himanshu851&label=Profile%20Views&style=for-the-badge&color=0284c7"
+  alt="Profile Views"
 />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🧑‍💻 GitHub Profile
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=himanshu851&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-/>
+<a href="https://github.com/himanshu851">
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/himanshu851?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu851&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</div>
-
----
 
 # 💡 What I Can Build
 

@@ -1,8 +1,3 @@
-Haan, issue samajh gaya. Pichhle version mein **animated banner external image ke andar name tha**, aur banner load nahi hua, isliye **naam bhi gayab ho gaya**. Aur projects ko alag snippets mein dene ki wajah se paste karte waqt README structure toot raha tha.
-
-Ab **neeche sirf EK complete code hai**. Purane `README.md` ka **saara content delete karo** aur **ye poora block start se end tak ek baar mein paste karo**. Isme name permanent rahega, animation fail ho tab bhi naam nahi jayega, aur **projects, Pine Script, AI, SaaS, WordPress, WooCommerce, OTT, Flutter, server, HestiaCP, GitHub automation, Odoo sync, tech stack, stats — sab isi ek code mein hain.** 
-
-```markdown
 <!-- ========================================================= -->
 <!--                    HIMANSHU SRIVASTAVA                     -->
 <!--                     GITHUB PROFILE README                  -->
@@ -919,4 +914,3 @@ I'm interested in working on:
 **© Himanshu Srivastava**
 
 </div>
-```
